@@ -1,2 +1,0 @@
-#!/bin/bash
-chmos ugo+x hello
